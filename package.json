@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@nestjs/mapped-types": "*",
+    "@nestjs/microservices": "^9.1.6"
+  },
+  "name": "hexcarteira",
+  "version": "1.0.0",
+  "description": "---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JonathanJapa/hexcarteira.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
